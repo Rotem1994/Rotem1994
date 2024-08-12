@@ -3,7 +3,8 @@
 <br>
 <br>
 
-# SSV Network - Accelerating Distributed and Resilient Re/Staking
+
+# SSV Network - Accelerating Distributed and Resilient Re/Staking    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;
 
 [![API Reference](
 https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
@@ -26,7 +27,7 @@ that governs the network. \
 Its core strength is in its robustness and fault tolerance which leads the way for an open network of staking operators 
 to run validators in a decentralized and trustless way.
 
-## 📝Information
+## Information
 
 ### 🔷 General SSV information (Semi technical read)
 * Article by [SSV](https://medium.com/bloxstaking/an-introduction-to-secret-shared-validators-ssv-for-ethereum-2-0-faf49efcabee)
@@ -49,7 +50,8 @@ The following documents contain instructions and information on how to get start
 * [Developers' Guide](./docs/DEV_GUIDE.md)
 * [SSV API Docs](https://bloxapp.github.io/ssv/)
 
-## ☑️ Contribution
+##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35">&nbsp;  Contribution 
+
 
 Thank you for considering a contribution to the source code.
 
@@ -82,15 +84,8 @@ For detailed roadmap please check out [ROADMAP.md](./ROADMAP.md)
 
 ### 📌It's time to join the ssv.network growing community
 
+ <a href="https://discord.gg/ssvnetworkofficial" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="100">
+ </a>
+<br><br>
 
-<div align="left">
-  <a href="https://twitter.com/ssv_network" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>    
-  <a href="https://discord.gg/ssvnetworkofficial" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/c/SSVnetwork" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
