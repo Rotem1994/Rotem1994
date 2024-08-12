@@ -6,9 +6,7 @@
 
 # SSV Network - Accelerating Distributed and Resilient Re/Staking    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="75">&nbsp;
 
-[![API Reference](
-https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
-)](https://pkg.go.dev/github.com/ethereum/eth2-ssv?tab=doc)
+[![API Reference](https://img.shields.io/badge/API%20Reference-blue)](https://pkg.go.dev/github.com/bloxapp/ssv)
 ![Github Actions](https://github.com/ethereum/eth2-ssv/actions/workflows/full-test.yml/badge.svg?branch=stage)
 ![Github Actions](https://github.com/ethereum/eth2-ssv/actions/workflows/lint.yml/badge.svg?branch=stage)
 ![Test Coverage](./docs/resources/cov-badge.svg)
