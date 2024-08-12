@@ -86,7 +86,7 @@ For detailed roadmap please check out [ROADMAP.md](./ROADMAP.md)
 <div align="left">
   <a href="https://twitter.com/ssv_network" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+  </a>    
   <a href="https://discord.gg/ssvnetworkofficial" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
