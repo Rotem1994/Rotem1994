@@ -18,7 +18,7 @@
 
 ## ✨Introduction
 
-Secret Shared Validator ('SSV') is a unique technology that enables the distributed control and operation of an Ethereum validator.
+SSV is a secure and scalable staking infrastructure powering the future of distributed ETH re/staking.
 
 SSV uses an MPC threshold scheme with a consensus layer on top ([Istanbul BFT](https://arxiv.org/pdf/2002.03613.pdf)), 
 that governs the network. \
@@ -32,7 +32,6 @@ to run validators in a decentralized and trustless way.
 
 ### 🔷 Technical iBFT and SSV read
 * [iBFT Paper](https://arxiv.org/pdf/2002.03613.pdf)
-    * [Fast sync for current instance](./ibft/sync/speedup/README.md)
 * [iBFT annotated paper (By Blox)](./ibft/IBFT.md)
 * [EIP650](https://github.com/ethereum/EIPs/issues/650)
 * [Security proof for n-t honest parties](https://notes.ethereum.org/DYU-NrRBTxS3X0fu_MidnA)
